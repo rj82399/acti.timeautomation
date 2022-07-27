@@ -1,2 +1,3 @@
 # acti.timeautomation
 com.qa.actitime
+please follow the instruction below to sep git repository in your local...
